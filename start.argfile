@@ -1,0 +1,1 @@
+-classpath ".\\bin;.\\lib\\sqlite-jdbc-3.31.0.jar"
